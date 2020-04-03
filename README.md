@@ -9,4 +9,4 @@ Visit us at (https://redmoonsecurity.com)
 This python program is written in python3
 You will need the **Requests** module:
 
-*sudo pip install requests
+* sudo pip install requests
