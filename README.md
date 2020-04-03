@@ -9,3 +9,7 @@ Visit us at (https://redmoonsecurity.com)
 This python program is written in python3<br/>You will need the **Requests** module:
 
 * sudo pip install requests
+
+## *Usage*
+
+./BannerGrabber.py [domain-name]
