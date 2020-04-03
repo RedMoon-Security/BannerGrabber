@@ -19,3 +19,13 @@ The script will fetch/find:
 ## *Banner of the domain*
 
 Banner Grabbing is a technique used to gain information about a remote server and is often used as part of a fingerprinting attack. Additionally, penetration testers sometimes use this as a technique to get information about remote servers.
+
+## *Regional information for the domain*
+
+The program will gather information such as:
+* City
+* Region
+* Country
+* Location
+* Postal Code
+* Timezone
