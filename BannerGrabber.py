@@ -6,12 +6,12 @@ import socket
 import json
 
 if len(sys.argv) < 2:
-    print("Usage: Enter a domain name\nExample: DomainStalker.py google.com")
+    print("Usage: Enter a domain name\nExample: BannerGrabber.py google.com")
     sys.exit(1)
 
 print( ' ')    
 print("\033[94mAuthor: Warren Vos <info@redmoonsecurity.com>")
-print("GitHub: https://github.com/RedMoon-Security/Headerrabber\033[m")
+print("GitHub: https://github.com/RedMoon-Security/BannerGrabber\033[m")
     
 print( ' ')
 print( '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
