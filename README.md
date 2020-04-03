@@ -1,4 +1,4 @@
-# DNStalker
+# BannerGrabber
 
 Visit us at (https://redmoonsecurity.com)
 
