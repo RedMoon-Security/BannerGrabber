@@ -6,7 +6,6 @@ Visit us at (https://redmoonsecurity.com)
 
 ## *Requirements*
 
-This python program is written in python3
-You will need the **Requests** module:
+This python program is written in python3  You will need the **Requests** module:
 
 * sudo pip install requests
